@@ -1,0 +1,80 @@
+	go_id	go_term	num_drugs	num_prots
+0	GO:0008150	biological_process	181	93
+1	GO:0010951	negative regulation of endopeptidase activity	33	33
+2	GO:0006805	xenobiotic metabolic process	153	92
+3	GO:0006629	lipid metabolic process	169	104
+4	GO:0030154	cell differentiation	143	285
+5	GO:0055085	transmembrane transport	150	89
+6	GO:0006412	translation	7	135
+7	GO:0006914	autophagy	78	98
+8	GO:0043065	positive regulation of apoptotic process	94	240
+9	GO:0009308	amine metabolic process	54	7
+10	GO:0046677	response to antibiotic	101	29
+11	GO:0007155	cell adhesion	49	265
+12	GO:0007165	signal transduction	176	809
+13	GO:0005975	carbohydrate metabolic process	75	88
+14	GO:0006091	generation of precursor metabolites and energy	102	42
+15	GO:0048870	cell motility	146	25
+16	GO:0006520	amino acid metabolic process	76	14
+17	GO:0000902	cell morphogenesis	26	49
+18	GO:0006508	proteolysis	144	185
+19	GO:0007267	cell-cell signaling	126	175
+20	GO:0016485	protein processing	119	48
+21	GO:0006397	mRNA processing	55	88
+22	GO:0007565	female pregnancy	45	59
+23	GO:0032880	regulation of protein localization	143	50
+24	GO:0065003	protein-containing complex assembly	139	105
+25	GO:0007010	cytoskeleton organization	117	84
+26	GO:0016310	phosphorylation	139	128
+27	GO:0008283	cell population proliferation	155	105
+28	GO:0007005	mitochondrion organization	92	45
+29	GO:0016540	protein autoprocessing	8	20
+30	GO:0050790	regulation of catalytic activity	138	16
+31	GO:0002376	immune system process	160	22
+32	GO:0016192	vesicle-mediated transport	153	78
+33	GO:0050821	protein stabilization	57	145
+34	GO:0006810	transport	177	4
+35	GO:0007049	cell cycle	126	164
+36	GO:0009636	response to toxic substance	111	60
+37	GO:0007275	multicellular organism development	6	57
+38	GO:0042592	homeostatic process	173	10
+39	GO:0007009	plasma membrane organization	25	9
+40	GO:0007059	chromosome segregation	21	46
+41	GO:0006457	protein folding	19	89
+42	GO:0030198	extracellular matrix organization	124	84
+43	GO:0031639	plasminogen activation	9	10
+44	GO:0043473	pigmentation	18	15
+45	GO:0051301	cell division	24	237
+46	GO:0032259	methylation	123	22
+47	GO:0040011	locomotion	135	6
+48	GO:0043085	positive regulation of catalytic activity	165	23
+49	GO:0030705	cytoskeleton-dependent intracellular transport	76	10
+50	GO:0007585	respiratory gaseous exchange by respiratory system	3	26
+51	GO:0042254	ribosome biogenesis	7	16
+52	GO:0031638	zymogen activation	12	14
+53	GO:0006605	protein targeting	12	30
+54	GO:0019835	cytolysis	1	1
+55	GO:0051604	protein maturation	16	21
+56	GO:0009058	biosynthetic process	169	8
+57	GO:0007586	digestion	8	15
+58	GO:0006913	nucleocytoplasmic transport	100	43
+59	GO:0009790	embryo development	75	9
+60	GO:0050877	nervous system process	148	49
+61	GO:0061024	membrane organization	107	20
+62	GO:0009820	alkaloid metabolic process	111	2
+63	GO:0070989	oxidative demethylation	110	9
+64	GO:0048646	anatomical structure formation involved in morphogenesis	119	5
+65	GO:0006259	DNA metabolic process	126	12
+66	GO:0008219	cell death	150	12
+67	GO:0048856	anatomical structure development	175	29
+68	GO:0051276	chromosome organization	104	18
+69	GO:0000003	reproduction	5	3
+70	GO:0007017	microtubule-based process	114	13
+71	GO:0008152	metabolic process	173	3
+72	GO:0021700	developmental maturation	76	1
+73	GO:0006790	sulfur compound metabolic process	24	12
+74	GO:0022618	protein-RNA complex assembly	51	1
+75	GO:0009056	catabolic process	169	1
+76	GO:0022607	cellular component assembly	133	1
+77	GO:0007034	vacuolar transport	27	2
+78	GO:0044281	small molecule metabolic process	170	1
