@@ -1,0 +1,6 @@
+pandas
+tqdm
+jupyter
+seaborn
+matplotlib
+matplotlib-venn

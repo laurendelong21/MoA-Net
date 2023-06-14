@@ -1,3 +1,7 @@
+# Large Data
+data/mappings
+data/validation
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -162,3 +166,4 @@ cython_debug/
 # Custom files
 *.pdf
 *.DS_Store
+data/*
