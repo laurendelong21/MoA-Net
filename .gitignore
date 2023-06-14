@@ -166,3 +166,4 @@ cython_debug/
 # Custom files
 *.pdf
 *.DS_Store
+data/*
