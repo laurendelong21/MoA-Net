@@ -1,62 +1,62 @@
 go_id	go_term	num_drugs	num_prots
-GO:0010951	negative regulation of endopeptidase activity	6	33
-GO:0006805	xenobiotic metabolic process	32	92
+GO:0010951	negative regulation of endopeptidase activity	8	33
+GO:0006805	xenobiotic metabolic process	37	92
 GO:0006629	lipid metabolic process	64	104
-GO:0055085	transmembrane transport	42	89
-GO:0006914	autophagy	14	98
-GO:0043065	positive regulation of apoptotic process	27	240
+GO:0055085	transmembrane transport	41	89
+GO:0006914	autophagy	23	98
+GO:0043065	positive regulation of apoptotic process	29	240
 GO:0009308	amine metabolic process	13	7
-GO:0007155	cell adhesion	15	265
-GO:0007165	signal transduction	102	809
-GO:0006520	amino acid metabolic process	9	14
-GO:0007267	cell-cell signaling	57	175
-GO:0016485	protein processing	1	48
-GO:0006397	mRNA processing	17	88
-GO:0032880	regulation of protein localization	78	50
-GO:0030154	cell differentiation	62	285
-GO:0007010	cytoskeleton organization	51	84
-GO:0008283	cell population proliferation	41	105
-GO:0007005	mitochondrion organization	12	45
-GO:0016540	protein autoprocessing	1	20
-GO:0050790	regulation of catalytic activity	46	16
-GO:0005975	carbohydrate metabolic process	15	88
-GO:0002376	immune system process	51	22
-GO:0016192	vesicle-mediated transport	31	78
-GO:0006508	proteolysis	9	185
-GO:0007049	cell cycle	21	164
-GO:0042592	homeostatic process	70	10
-GO:0050821	protein stabilization	6	145
+GO:0007155	cell adhesion	18	265
+GO:0007165	signal transduction	99	809
+GO:0006520	amino acid metabolic process	7	14
+GO:0007267	cell-cell signaling	44	175
+GO:0016485	protein processing	4	48
+GO:0006397	mRNA processing	16	88
+GO:0032880	regulation of protein localization	80	50
+GO:0030154	cell differentiation	67	285
+GO:0007010	cytoskeleton organization	57	84
+GO:0008283	cell population proliferation	48	105
+GO:0007005	mitochondrion organization	14	45
+GO:0016540	protein autoprocessing	2	20
+GO:0050790	regulation of catalytic activity	49	16
+GO:0005975	carbohydrate metabolic process	19	88
+GO:0002376	immune system process	64	22
+GO:0016192	vesicle-mediated transport	41	78
+GO:0006508	proteolysis	10	185
+GO:0007049	cell cycle	24	164
+GO:0007275	multicellular organism development	4	57
+GO:0042592	homeostatic process	73	10
+GO:0050821	protein stabilization	8	145
 GO:0007009	plasma membrane organization	3	9
-GO:0007059	chromosome segregation	10	46
-GO:0006457	protein folding	2	89
-GO:0030198	extracellular matrix organization	6	84
-GO:0035634	response to stilbenoid	1	2
+GO:0007059	chromosome segregation	4	46
+GO:0006457	protein folding	3	89
+GO:0030198	extracellular matrix organization	7	84
 GO:0031639	plasminogen activation	1	10
 GO:0051301	cell division	11	237
-GO:0040011	locomotion	22	6
+GO:0040011	locomotion	30	6
 GO:0043085	positive regulation of catalytic activity	61	23
-GO:0000902	cell morphogenesis	8	49
+GO:0000902	cell morphogenesis	6	49
 GO:0042254	ribosome biogenesis	1	16
-GO:0031638	zymogen activation	2	14
-GO:0006605	protein targeting	1	30
+GO:0031638	zymogen activation	3	14
+GO:0006605	protein targeting	2	30
+GO:0019835	cytolysis	1	1
 GO:0051604	protein maturation	2	21
-GO:0006913	nucleocytoplasmic transport	40	43
-GO:0009790	embryo development	12	9
-GO:0050877	nervous system process	61	49
-GO:0061024	membrane organization	39	20
-GO:0007585	respiratory gaseous exchange by respiratory system	2	26
-GO:0009820	alkaloid metabolic process	17	2
-GO:0070989	oxidative demethylation	19	9
-GO:0048646	anatomical structure formation involved in morphogenesis	42	5
+GO:0006913	nucleocytoplasmic transport	47	43
+GO:0009790	embryo development	14	9
+GO:0050877	nervous system process	64	49
+GO:0061024	membrane organization	47	20
+GO:0007585	respiratory gaseous exchange by respiratory system	1	26
+GO:0009820	alkaloid metabolic process	20	2
+GO:0070989	oxidative demethylation	22	9
+GO:0048646	anatomical structure formation involved in morphogenesis	49	5
 GO:0006259	DNA metabolic process	31	12
-GO:0008219	cell death	44	12
-GO:0048856	anatomical structure development	101	29
-GO:0051276	chromosome organization	19	18
-GO:0021700	developmental maturation	27	1
-GO:0030705	cytoskeleton-dependent intracellular transport	19	10
-GO:0006790	sulfur compound metabolic process	1	12
-GO:0007017	microtubule-based process	49	13
-GO:0022618	protein-RNA complex assembly	14	1
-GO:0022607	cellular component assembly	33	1
-GO:0007034	vacuolar transport	6	2
+GO:0008219	cell death	51	12
+GO:0048856	anatomical structure development	100	29
+GO:0051276	chromosome organization	24	18
+GO:0021700	developmental maturation	22	1
+GO:0030705	cytoskeleton-dependent intracellular transport	18	10
+GO:0007017	microtubule-based process	52	13
+GO:0022618	protein-RNA complex assembly	13	1
+GO:0022607	cellular component assembly	39	1
+GO:0007034	vacuolar transport	9	2
 GO:0044281	small molecule metabolic process	82	1
