@@ -20,7 +20,10 @@ pubchem.compound:3162	Compound	GO:0034776	Biological Process	induces
 pubchem.compound:4201	Compound	GO:0042311	Biological Process	induces
 pubchem.compound:4201	Compound	GO:0008217	Biological Process	induces
 pubchem.compound:135398744	Compound	GO:0042311	Biological Process	induces
+pubchem.compound:9782	Compound	GO:0006954	Biological Process	induces
+pubchem.compound:6216	Compound	GO:0006954	Biological Process	induces
 pubchem.compound:3446	Compound	GO:0006936	Biological Process	induces
+pubchem.compound:5755	Compound	GO:0006954	Biological Process	induces
 pubchem.compound:16362	Compound	GO:0014046	Biological Process	induces
 pubchem.compound:13109	Compound	GO:0032275	Biological Process	induces
 pubchem.compound:637568	Compound	GO:0006979	Biological Process	induces
@@ -28,6 +31,7 @@ pubchem.compound:4976	Compound	GO:0023041	Biological Process	induces
 pubchem.compound:5282136	Compound	GO:0001696	Biological Process	induces
 pubchem.compound:114905	Compound	GO:0045823	Biological Process	induces
 pubchem.compound:54385	Compound	GO:0034776	Biological Process	induces
+pubchem.compound:236702	Compound	GO:0019370	Biological Process	induces
 pubchem.compound:4170	Compound	GO:0055078	Biological Process	induces
 pubchem.compound:55191	Compound	GO:0050795	Biological Process	induces
 pubchem.compound:33741	Compound	GO:0019233	Biological Process	induces
