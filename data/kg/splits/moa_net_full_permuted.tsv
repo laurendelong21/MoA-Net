@@ -1,4 +1,4 @@
-source	target	relation
+source	target	edge_type
 ncbigene:1436	ncbigene:3359	interacts
 ncbigene:51077	ncbigene:6812	interacts
 ncbigene:259294	ncbigene:5567	interacts
