@@ -2,6 +2,7 @@
 data/mappings
 data/validation
 data/mappings
+data/output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
