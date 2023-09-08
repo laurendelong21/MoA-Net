@@ -1,0 +1,19 @@
+Test (beam) scores with best model from output/MOA-net-xswap/06Sep23_044219_p3_r3.0_e256_h64_a0.1_b0.05_Lb0.5_A150_LR0.0001_pen0.0/model/model.ckpt
+Tail:
+Hits@1:  0.0808
+Hits@3:  0.2006
+Hits@5:  0.2754
+Hits@10:  0.3653
+Hits@20:  0.4850
+MRR:  0.1787
+Hits@1_rule:  0.1497
+Hits@3_rule:  0.2964
+Hits@5_rule:  0.4072
+Hits@10_rule:  0.5599
+Hits@20_rule:  0.6587
+MRR_rule:  0.2651
+Rule count body: 12700/33400 = 0.3802
+Rule count correct: 1208/33400 = 0.0362
+Number of queries with at least one rule: 334/334 = 1.0000
+Number of queries with at least one rule and correct: 224/334 = 0.6707
+

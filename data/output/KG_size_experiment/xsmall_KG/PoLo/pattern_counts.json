@@ -1,0 +1,19 @@
+{
+    "['CdG', 'GpBP', '_GpBP', 'GpBP']": 5798,
+    "['CuG', 'GpBP', '_GpBP', 'GpBP']": 3076,
+    "['CdG', '_CuG', 'CuG', 'GpBP']": 42,
+    "['CdG', '_CdG', 'CdG', 'GpBP']": 193,
+    "['CdG', 'GpBP']": 11,
+    "['CdG', 'GiG', 'GiG', 'GpBP']": 68,
+    "['CdG', '_CdG', 'CuG', 'GpBP']": 55,
+    "['CuG', '_CuG', 'CuG', 'GpBP']": 44,
+    "['CdG', '_CuG', 'CdG', 'GpBP']": 39,
+    "['CuG', '_CuG', 'CdG', 'GpBP']": 33,
+    "['CuG', '_CdG', 'CuG', 'GpBP']": 45,
+    "['CuG', 'GiG', 'GiG', 'GpBP']": 30,
+    "['CuG', 'GpBP']": 5,
+    "['CuG', '_CdG', 'CdG', 'GpBP']": 13,
+    "['CdG', 'GiG', 'GpBP']": 3,
+    "['CtBP', '_GpBP', 'GpBP']": 5,
+    "['CuG', 'GiG', 'GpBP']": 2
+}

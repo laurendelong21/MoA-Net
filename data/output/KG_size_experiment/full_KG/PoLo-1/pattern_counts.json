@@ -1,0 +1,9 @@
+{
+    "['CdG', 'GpBP']": 226,
+    "['CtBP', '_GpBP', 'GpBP']": 3449,
+    "['CuG', 'GpBP']": 63,
+    "['CuG', 'GiG', 'GpBP']": 34,
+    "['CdG', 'GiG', 'GpBP']": 52,
+    "['CdG', '_CdG', 'CtBP']": 5,
+    "['CdG', '_CuG', 'CtBP']": 2
+}
