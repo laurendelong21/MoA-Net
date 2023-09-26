@@ -1,9 +1,9 @@
 {
-    "['CdG', 'GpBP']": 169,
-    "['CtBP', '_GpBP', 'GpBP']": 4305,
-    "['CuG', 'GpBP']": 57,
-    "['CdG', 'GiG', 'GpBP']": 51,
-    "['CuG', 'GiG', 'GpBP']": 67,
-    "['CdG', '_CdG', 'CtBP']": 8,
-    "['CuG', '_CuG', 'CtBP']": 2
+    "downregulates -> participates": 169,
+    "induces -> participates* -> participates": 4305,
+    "upregulates -> participates": 57,
+    "downregulates -> interacts -> participates": 51,
+    "upregulates -> interacts -> participates": 67,
+    "downregulates -> downregulates* -> induces": 8,
+    "upregulates -> upregulates* -> induces": 2
 }

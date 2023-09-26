@@ -1,15 +1,15 @@
 {
-    "['CuG', 'GpBP', '_GpBP', 'GpBP']": 2555,
-    "['CdG', 'GpBP', '_GpBP', 'GpBP']": 5507,
-    "['CdG', '_CdG', 'CdG', 'GpBP']": 445,
-    "['CdG', '_CdG', 'CuG', 'GpBP']": 42,
-    "['CdG', 'GiG', 'GiG', 'GpBP']": 25,
-    "['CdG', 'GpBP']": 127,
-    "['CdG', '_CuG', 'CuG', 'GpBP']": 21,
-    "['CuG', '_CuG', 'CdG', 'GpBP']": 58,
-    "['CuG', '_CuG', 'CuG', 'GpBP']": 19,
-    "['CdG', '_CuG', 'CdG', 'GpBP']": 29,
-    "['CuG', 'GpBP']": 6,
-    "['CuG', '_CdG', 'CdG', 'GpBP']": 21,
-    "['CuG', 'GiG', 'GiG', 'GpBP']": 10
+    "upregulates -> participates -> participates* -> participates": 2555,
+    "downregulates -> participates -> participates* -> participates": 5507,
+    "downregulates -> downregulates* -> downregulates -> participates": 445,
+    "downregulates -> downregulates* -> upregulates -> participates": 42,
+    "downregulates -> interacts -> interacts -> participates": 25,
+    "downregulates -> participates": 127,
+    "downregulates -> upregulates* -> upregulates -> participates": 21,
+    "upregulates -> upregulates* -> downregulates -> participates": 58,
+    "upregulates -> upregulates* -> upregulates -> participates": 19,
+    "downregulates -> upregulates* -> downregulates -> participates": 29,
+    "upregulates -> participates": 6,
+    "upregulates -> downregulates* -> downregulates -> participates": 21,
+    "upregulates -> interacts -> interacts -> participates": 10
 }
