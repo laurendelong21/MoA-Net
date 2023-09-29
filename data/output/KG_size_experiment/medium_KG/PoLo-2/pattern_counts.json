@@ -1,16 +1,16 @@
 {
     "upregulates -> participates -> participates* -> participates": 2083,
-    "upregulates -> participates": 6,
     "upregulates -> upregulates* -> upregulates -> participates": 46,
+    "upregulates -> participates": 6,
     "downregulates -> participates -> participates* -> participates": 5769,
     "downregulates -> downregulates* -> downregulates -> participates": 378,
-    "upregulates -> upregulates* -> downregulates -> participates": 38,
     "downregulates -> participates": 134,
     "downregulates -> downregulates* -> upregulates -> participates": 26,
+    "upregulates -> upregulates* -> downregulates -> participates": 38,
     "downregulates -> upregulates* -> upregulates -> participates": 25,
-    "upregulates -> downregulates* -> downregulates -> participates": 23,
-    "downregulates -> upregulates* -> downregulates -> participates": 6,
-    "downregulates -> interacts -> interacts -> participates": 2,
     "upregulates -> interacts -> interacts -> participates": 4,
-    "upregulates -> downregulates* -> upregulates -> participates": 7
+    "upregulates -> downregulates* -> downregulates -> participates": 23,
+    "upregulates -> downregulates* -> upregulates -> participates": 7,
+    "downregulates -> upregulates* -> downregulates -> participates": 6,
+    "downregulates -> interacts -> interacts -> participates": 2
 }
