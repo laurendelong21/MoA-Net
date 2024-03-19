@@ -1,0 +1,17 @@
+{
+    "upregulates -> upregulates* -> upregulates -> participates": 49,
+    "upregulates -> participates -> participates* -> participates": 1777,
+    "downregulates -> participates -> participates* -> participates": 5232,
+    "downregulates -> downregulates* -> downregulates -> participates": 330,
+    "downregulates -> participates": 92,
+    "upregulates -> upregulates* -> downregulates -> participates": 47,
+    "downregulates -> downregulates* -> upregulates -> participates": 49,
+    "upregulates -> downregulates* -> downregulates -> participates": 16,
+    "downregulates -> upregulates* -> upregulates -> participates": 21,
+    "upregulates -> participates": 4,
+    "upregulates -> interacts -> interacts -> participates": 4,
+    "downregulates -> interacts -> interacts -> participates": 32,
+    "downregulates -> upregulates* -> downregulates -> participates": 4,
+    "upregulates -> downregulates* -> upregulates -> participates": 7,
+    "induces -> participates* -> participates": 1
+}

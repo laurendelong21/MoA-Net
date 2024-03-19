@@ -1,0 +1,5 @@
+{
+    "downregulates -> participates": 280,
+    "induces -> induces* -> induces": 19152,
+    "upregulates -> participates": 121
+}
