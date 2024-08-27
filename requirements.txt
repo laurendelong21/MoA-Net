@@ -5,3 +5,4 @@ seaborn
 matplotlib
 matplotlib-venn
 scipy
+xswap==0.0.2
