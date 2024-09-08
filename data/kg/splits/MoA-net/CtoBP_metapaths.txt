@@ -1,0 +1,6 @@
+Cd>Gp>BP
+Cu>Gp>BP
+Cd>Gi>Gp>BP
+Cu>Gi>Gp>BP
+Cd>Gi>Gi>Gp>BP
+Cu>Gi>Gi>Gp>BP
