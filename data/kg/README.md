@@ -2,10 +2,10 @@
 
 Within the [splits folder](splits/), we have different KGs to work with:
 
-- [`data/kg/splits/MoA-net/`](https://github.com/enveda/neurosymbolic-mechanism/tree/main/data/kg/splits/MoA-net): The full, original MoA-net.
-- [`data/kg/splits/MoA-net-permuted/`](https://github.com/enveda/neurosymbolic-mechanism/tree/main/data/kg/splits/MoA-net-permuted): The full, permuted version MoA-net, based on [XSwap](https://pubmed.ncbi.nlm.nih.gov/38323677/).
-- [`data/kg/splits/MoA-net-protclass/`](https://github.com/enveda/neurosymbolic-mechanism/tree/main/data/kg/splits/MoA-net-protclass): The full version of MoA-net in which ~55% of the proteins have a protein subclass.
-- [`data/kg/splits/Hetionet/`](https://github.com/enveda/neurosymbolic-mechanism/tree/main/data/kg/splits/Hetionet): The [Hetionet KG](https://het.io/), which was used in the [PoLo paper](https://github.com/liu-yushan/PoLo).
+- [`data/kg/splits/MoA-net/`](data/kg/splits/MoA-net/): The full, original MoA-net.
+- [`data/kg/splits/MoA-net-permuted/`](data/kg/splits/MoA-net-permuted/): The full, permuted version MoA-net, based on [XSwap](https://pubmed.ncbi.nlm.nih.gov/38323677/).
+- [`data/kg/splits/MoA-net-protclass/`](data/kg/splits/MoA-net-protclass/): The full version of MoA-net in which ~55% of the proteins have a protein subclass.
+- [`data/kg/splits/Hetionet/`](data/kg/splits/Hetionet/): The [Hetionet KG](https://het.io/), which was used in the [PoLo paper](https://github.com/liu-yushan/PoLo).
 
 
 Within each of these folders, the following files can be downloaded:
