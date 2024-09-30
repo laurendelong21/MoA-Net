@@ -118,4 +118,3 @@ dependencies:
     - urllib3==2.1.0
     - wheel==0.41.2
     - xswap==0.0.2
-prefix: /home/lauren/miniconda3/envs/moanet_env
