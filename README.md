@@ -72,6 +72,6 @@ kg_directory/
 
 ## Data relevant for MARS
 
-The `MARS/` directory contains files which are processed and ready for input into [MARS: **m**echanism-of-**a**ction **r**etrieval **s**ystem](hidden). This code is contained within the other code repository.
+The `MARS/` directory contains files which are processed and ready for input into [MARS: **m**echanism-of-**a**ction **r**etrieval **s**ystem](https://github.com/laurendelong21/MARS). This code is contained within the other code repository.
 
 In the `MoA-net` folder, a additional directory with [10k](data/kg/splits/MoA-net/10k/) is present which is created as a result of MARS' automatic trimming step.
