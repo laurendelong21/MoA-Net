@@ -9,7 +9,9 @@ Mechanism-of-Action Network (MoA-Net)
 </h1>
 
 
-This is the code repository for the creation of *MoA-Net* and all of its variants. The network can be used for benchmarking purposes for interpretable drug discovery approaches.
+This is the code repository for the creation of *MoA-Net*, as described in [**"MARS: A neurosymbolic approach for interpretable drug discovery"**](https://arxiv.org/abs/2410.05289).
+
+ The network can be used for benchmarking approaches for interpretable drug discovery.
 
 *MoA-Net* can be used by graph based algorithms for MoA deconvolution. The figure below shows: A) the graph schema or data model of *MoA-Net* and B) the node and edge statistics of *MoA-Net*.
 
@@ -75,3 +77,18 @@ kg_directory/
 The `MARS/` directory contains files which are processed and ready for input into [MARS: **m**echanism-of-**a**ction **r**etrieval **s**ystem](https://github.com/laurendelong21/MARS). This code is contained within the other code repository.
 
 In the `MoA-net` folder, a additional directory with [10k](data/kg/splits/MoA-net/10k/) is present which is created as a result of MARS' automatic trimming step.
+
+<br>
+
+## Citation
+If you found our work useful, please consider citing our preprint:
+
+    @article{delong2024mars,
+      title={MARS: A neurosymbolic approach for interpretable drug discovery}, 
+      author={Lauren Nicole DeLong and Yojana Gadiya and Paola Galdi and Jacques D. Fleuriot and Daniel Domingo-Fernández},
+      year={2024},
+      eprint={2410.05289},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2410.05289}, 
+    }
